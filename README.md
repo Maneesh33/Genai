@@ -1,30 +1,72 @@
-# AI clipsXXX (books)
+AI-STUDIO
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Generative AI Production Studio for Creative Industries.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/zywwjfhpyuB)
+Overview
 
-## Overview
+AI-STUDIO is a portfolio and showcase platform representing our Generative AI production capabilities.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+We design and deploy advanced AI systems across:
 
-## Deployment
+Film production
 
-Your project is live at:
+AI product photography
 
-**[https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx](https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx)**
+UGC video automation
 
-## Build your app
+Consistent AI avatars
 
-Continue building your app on:
+Visual effects pipelines
 
-**[https://v0.app/chat/zywwjfhpyuB](https://v0.app/chat/zywwjfhpyuB)**
+Custom ComfyUI workflows
 
-## How It Works
+This website showcases our production work, systems built, and studio capabilities.
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+What We Do
+
+We build production-ready generative AI systems, not experiments.
+
+Our services include:
+
+Cinematic AI shot generation
+
+AI-powered product photography
+
+Bulk UGC video automation
+
+Persistent AI avatar systems
+
+16–32 bit depth rendering workflows
+
+Custom ComfyUI node pipelines
+
+Visual AI automation for brands and studios
+
+Studio Metrics
+
+120+ Projects Delivered
+
+10+ Brands Served
+
+2+ Years in Generative AI
+
+7 Core Team Members
+
+6+ Production Systems Built
+
+18+ Custom ComfyUI Pipelines
+
+85% Average Production Cost Reduction
+
+4 Countries Served
+
+Contact
+
+For collaborations or production inquiries:
+
+Email: contact@lumiai.in
+
+License
+
+All rights reserved.
+AI-STUDIO © 2026
