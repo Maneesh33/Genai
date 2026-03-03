@@ -1,30 +1,63 @@
-# AI clipsXXX (books)
+# AI-STUDIO
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+Generative AI Production Studio for Creative Industries.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/zywwjfhpyuB)
+---
 
 ## Overview
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+AI-STUDIO is a production-focused Generative AI studio building advanced visual and automation systems for creative industries.
 
-## Deployment
+We design and deploy scalable AI solutions across film production, product visualization, UGC automation, AI avatars, and custom ComfyUI workflows.
 
-Your project is live at:
+This website represents our studio capabilities, production systems, and selected works.
 
-**[https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx](https://vercel.com/alexs-projects-ce23ae4b/v0-ai-clips-xxx)**
+---
 
-## Build your app
+## What We Do
 
-Continue building your app on:
+- Cinematic AI shot generation for films
+- AI-powered product photography
+- Bulk UGC video automation systems
+- Persistent AI avatar development
+- Advanced 16–32 bit depth visual workflows
+- Custom ComfyUI node graph pipelines
+- Visual AI automation for brands and production houses
 
-**[https://v0.app/chat/zywwjfhpyuB](https://v0.app/chat/zywwjfhpyuB)**
+We build production-ready systems — not experimental outputs.
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+## Studio Metrics
+
+- 120+ Projects Delivered
+- 10+ Brands Served
+- 4+ Years in Generative AI
+- 7 Core Team Members
+- 6+ Production Systems Built
+- 18+ Custom ComfyUI Pipelines
+- 85% Average Production Cost Reduction
+- 4 Countries Served
+
+---
+
+## Project Structure
+
+- Hero Section (Studio Identity)
+- Numerical Authority Section
+- Works Gallery (AI Project Showcase)
+- Contact Integration
+
+The design follows a minimal dark-themed gallery layout.
+
+---
+
+## Contact
+
+For collaborations or production inquiries:
+
+contact@lumiai.in
+
+---
+
+© 2026 AI-STUDIO. All rights reserved.

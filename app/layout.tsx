@@ -5,6 +5,18 @@ import { Analytics } from "@vercel/analytics/next"
 import { GenerationProvider } from "@/contexts/generation-context"
 import "./globals.css"
 
+
+import { inject } from '@vercel/analytics';
+inject();
+
+export default function RootLayout({ children }) {
+  return (
+    <html>
+      <body>{children}</body>
+    </html>
+  );
+}
+
 const _inter = Inter({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
