@@ -52,7 +52,7 @@ export function AvatarManager({ isOpen, onClose }: AvatarManagerProps) {
 
           {/* Panel */}
           <motion.div
-            className="fixed right-0 top-0 bottom-0 z-[101] flex"
+            className="fixed inset-0 z-[101] flex flex-col sm:flex-row"
             initial={{ x: "100%" }}
             animate={{ x: 0 }}
             exit={{ x: "100%" }}
@@ -63,8 +63,8 @@ export function AvatarManager({ isOpen, onClose }: AvatarManagerProps) {
               mass: 0.8,
             }}
           >
-            <div className="w-[220px] bg-[#141414] border-r border-white/[0.06] flex flex-col h-full">
-              <div className="flex items-center justify-between px-4 py-4 border-b border-white/[0.06]">
+            <div className="w-full sm:w-[220px] bg-[#141414] border-b sm:border-b-0 sm:border-r border-white/[0.06] flex flex-col h-auto sm:h-full">
+              <div className="flex items-center justify-between px-4 py-3 sm:py-4 border-b border-white/[0.06]">
                 <h2 className="text-sm font-semibold text-foreground tracking-tight">Consistent AI Avatar</h2>
                 <button
                   onClick={onClose}
@@ -81,7 +81,7 @@ export function AvatarManager({ isOpen, onClose }: AvatarManagerProps) {
               </div>
             </div>
 
-            <div className="w-[520px] sm:w-[580px] md:w-[640px] bg-[#191919] flex flex-col h-full">
+            <div className="flex-1 w-full bg-[#191919] flex flex-col h-full max-w-full sm:max-w-[640px] mx-auto">
               <div className="flex items-center justify-between px-5 py-4 border-b border-white/[0.06]">
                 <div className="flex flex-col">
                   <h3 className="text-sm font-semibold text-foreground">MANEESH – Consistent Avatar</h3>
@@ -89,8 +89,8 @@ export function AvatarManager({ isOpen, onClose }: AvatarManagerProps) {
                 </div>
               </div>
 
-              <div className="flex-1 overflow-y-auto p-4">
-                <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
+              <div className="flex-1 overflow-y-auto p-3 sm:p-4">
+                <div className="grid grid-cols-2 sm:grid-cols-3 gap-2.5 sm:gap-3">
                   {avatarImages.map((image, idx) => (
                     <motion.button
                       key={image.url + idx}
