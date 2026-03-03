@@ -1,72 +1,63 @@
-AI-STUDIO
+# AI-STUDIO
 
 Generative AI Production Studio for Creative Industries.
 
-Overview
+---
 
-AI-STUDIO is a portfolio and showcase platform representing our Generative AI production capabilities.
+## Overview
 
-We design and deploy advanced AI systems across:
+AI-STUDIO is a production-focused Generative AI studio building advanced visual and automation systems for creative industries.
 
-Film production
+We design and deploy scalable AI solutions across film production, product visualization, UGC automation, AI avatars, and custom ComfyUI workflows.
 
-AI product photography
+This website represents our studio capabilities, production systems, and selected works.
 
-UGC video automation
+---
 
-Consistent AI avatars
+## What We Do
 
-Visual effects pipelines
+- Cinematic AI shot generation for films
+- AI-powered product photography
+- Bulk UGC video automation systems
+- Persistent AI avatar development
+- Advanced 16–32 bit depth visual workflows
+- Custom ComfyUI node graph pipelines
+- Visual AI automation for brands and production houses
 
-Custom ComfyUI workflows
+We build production-ready systems — not experimental outputs.
 
-This website showcases our production work, systems built, and studio capabilities.
+---
 
-What We Do
+## Studio Metrics
 
-We build production-ready generative AI systems, not experiments.
+- 120+ Projects Delivered
+- 10+ Brands Served
+- 4+ Years in Generative AI
+- 7 Core Team Members
+- 6+ Production Systems Built
+- 18+ Custom ComfyUI Pipelines
+- 85% Average Production Cost Reduction
+- 4 Countries Served
 
-Our services include:
+---
 
-Cinematic AI shot generation
+## Project Structure
 
-AI-powered product photography
+- Hero Section (Studio Identity)
+- Numerical Authority Section
+- Works Gallery (AI Project Showcase)
+- Contact Integration
 
-Bulk UGC video automation
+The design follows a minimal dark-themed gallery layout.
 
-Persistent AI avatar systems
+---
 
-16–32 bit depth rendering workflows
-
-Custom ComfyUI node pipelines
-
-Visual AI automation for brands and studios
-
-Studio Metrics
-
-120+ Projects Delivered
-
-10+ Brands Served
-
-2+ Years in Generative AI
-
-7 Core Team Members
-
-6+ Production Systems Built
-
-18+ Custom ComfyUI Pipelines
-
-85% Average Production Cost Reduction
-
-4 Countries Served
-
-Contact
+## Contact
 
 For collaborations or production inquiries:
 
-Email: contact@lumiai.in
+contact@lumiai.in
 
-License
+---
 
-All rights reserved.
-AI-STUDIO © 2026
+© 2026 AI-STUDIO. All rights reserved.
