@@ -10,7 +10,8 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Folders for Restream Clips | v0 App",
-  description: "Dark mode folder grid UI with thumbnails. Cards display project name, clip count, and timestamp. Includes new project CTA and trial button.",
+  description:
+    "Dark mode folder grid UI with thumbnails. Cards display project name, clip count, and timestamp. Includes new project CTA and trial button.",
   generator: "v0.app",
   icons: {
     icon: [
